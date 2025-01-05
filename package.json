@@ -1,5 +1,11 @@
 {
-  "name": "nuxt-app",
+  "name": "indienile.games",
+  "version": "1.0.0",
+  "description": "IndieNile Games Website.",
+  "main": "index.js",
+  "repository": "https://github.com/IndieNile-Games/indienile.games.git",
+  "author": "gavinhsmith <ghsmith@indienile.games> (https://indienile.games/)",
+  "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
